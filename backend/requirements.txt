@@ -1,0 +1,10 @@
+flask
+flask-cors
+sqlalchemy
+psycopg2-binary
+python-dotenv
+moviepy
+speechrecognition
+pytesseract
+opencv-python
+face_recognition
