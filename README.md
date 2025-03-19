@@ -59,7 +59,7 @@
 
 ## 🎥 Demo Video
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Z43DheHovO6oUlue-6T2ggivtq_5Vz0h/view?usp=sharing](https://drive.google.com/file/d/1mv60k77Q3Cwn0fZhakfkh3nxFBmLUZhu/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1mv60k77Q3Cwn0fZhakfkh3nxFBmLUZhu/view?usp=sharing">
     <img src="https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue?style=for-the-badge&logo=youtube">
   </a>
 </p>
