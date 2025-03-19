@@ -62,7 +62,7 @@
 
 ## 🛠️ How to Use
 <ol>
-  <li>Visit the platform: <a href="https://loanease-two.vercel.app/">LoanEase AI</a></li>
+  
   <li>Follow the step-by-step process to apply for a loan.</li>
   <li>For assistance, click the "Support" button in the top-right corner.</li>
 </ol>
