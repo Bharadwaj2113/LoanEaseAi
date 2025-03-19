@@ -42,31 +42,45 @@
 ---
 
 ## 📸 Screenshots
-<h3>1️⃣ Face Verification</h3>
-<p>✔️ Confirmation of successful identity verification.</p>
 
-<h3>2️⃣ Loan Approval</h3>
+<h3>1️⃣ Loan Approval Module</h3>
 <p>✔️ Displays pre-approved loan details.</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1uGpcSaJsiOHKm6bbLlAQyYjWFSGv_CFK" width="700px">
+</p>
+
+<h3>2️⃣ Loan Details Module</h3>
+<p>✔️ Displays loan amount, interest rate, and payment breakdown.</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1zJctPLOdDXY3WxcNuVfKKb-t4mtJkjJx" width="700px">
+</p>
+
+---
+
+## 🎥 Demo Video
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Z43DheHovO6oUlue-6T2ggivtq_5Vz0h/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue?style=for-the-badge&logo=youtube">
+  </a>
+</p>
 
 ---
 
 ## 💻 Technologies Used
 <ul>
   <li><strong>Frontend:</strong> React.js</li>
-  <li><strong>Backend:</strong> Node.js</li>
+  <li><strong>Backend:</strong> Python Flask API</li>
   <li><strong>AI Features:</strong> TensorFlow.js for face verification</li>
   <li><strong>Hosting:</strong> Vercel</li>
 </ul>
 
 ---
 
-## 🛠️ How to Use
-<ol>
-  
-  <li>Follow the step-by-step process to apply for a loan.</li>
-  <li>For assistance, click the "Support" button in the top-right corner.</li>
-</ol>
+## ⚡ Backend: Python Flask API
+<p>The backend of LoanEase AI is built using Flask to handle loan processing, user authentication, and eligibility checks.</p>
 
----
-
-<p align="center">© 2025 LoanEase AI. All rights reserved.</p>
+### 🔧 API Endpoints
+```plaintext
+POST   /api/loan-apply       # Submits loan application details
+GET    /api/loan-status      # Fetches current loan status
+POST   /api/face-verify      # Verifies user identity via AI-based facial recognition
